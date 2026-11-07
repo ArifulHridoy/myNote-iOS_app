@@ -1,4 +1,4 @@
-# MyNote
+# MyNote - A To-Do-List App
 
 > A simple, modern SwiftUI todo app with Firebase authentication and real-time cloud synchronization.
 
@@ -7,10 +7,11 @@ MyNote is an iOS application created for a Mobile Computing Laboratory assignmen
 ## Screenshots
 
 <p align="center">
-  <img src="./MyNote51/MyNote51/UI%20Screenshots/IMG-20261106-WA0003.jpg" width="220" alt="MyNote authentication screen">
-  <img src="./MyNote51/MyNote51/UI%20Screenshots/IMG-20261106-WA0004.jpg" width="220" alt="MyNote todo list screen">
-  <img src="./MyNote51/MyNote51/UI%20Screenshots/IMG-20261106-WA0005.jpg" width="220" alt="MyNote adding a todo">
   <img src="./MyNote51/MyNote51/UI%20Screenshots/IMG-20261106-WA0006.jpg" width="220" alt="MyNote completed todo screen">
+  <img src="./MyNote51/MyNote51/UI%20Screenshots/IMG-20261106-WA0003.jpg" width="220" alt="MyNote authentication screen">
+  <br>
+  <img src="./MyNote51/MyNote51/UI%20Screenshots/IMG-20261106-WA0005.jpg" width="220" alt="MyNote adding a todo">
+  <img src="./MyNote51/MyNote51/UI%20Screenshots/IMG-20261106-WA0004.jpg" width="220" alt="MyNote todo list screen">
 </p>
 
 ## Features
